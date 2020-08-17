@@ -1,5 +1,5 @@
 // This is Lazy Load implementation. Contrary to clasical implementation this
-// type of implementation is more costly in terms of performance..
+// type of implementation is less costly in terms of performance..
 // PS : This is not a Thread safe implementation..
 public class DBSingletonLazyLoad {
     private static DBSingletonLazyLoad instance;
