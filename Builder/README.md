@@ -1,6 +1,6 @@
-##Builder Pattern
+## Builder Pattern
 
-####Use the Builder Pattern to encapsulate the construction of a product and allow it to be constructed in steps.
+#### Use the Builder Pattern to encapsulate the construction of a product and allow it to be constructed in steps.
 
 
 The builder pattern is solve one of the common problem in OOP design which is what constructor to use. It provide flexibility over telescoping constructors.
