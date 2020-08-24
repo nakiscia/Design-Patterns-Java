@@ -1,3 +1,4 @@
+package SimExp;
 
 // The problem is this class is not immutable because of exposed setter methods...
 public class LunchOrderBean {

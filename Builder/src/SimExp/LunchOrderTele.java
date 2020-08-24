@@ -1,3 +1,5 @@
+package SimExp;
+
 // This is the telescoping constructor example of Lunch Order class.
 // Since we did not use the setters, we satisfy the immutablity but
 // this way is not a flexiable way to do that..
