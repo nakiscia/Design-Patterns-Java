@@ -21,11 +21,11 @@ Instead of creating new instace we just clone it and it is still a unique object
 is a bit costly. Because of that the prototype pattern can be used for that case.
 
 
- ###Benefits
+ ### Benefits
  - Hides the complexities of making new instances from the client
  - Provides the option for the client to generate objects whose type is not know
  - In some circumstances copying an object can be more efficient than creating new one.
  
- ###Drawbacks
+ ### Drawbacks
  - Prototype should be considered when a system must create new objects of many types in a complex class hierarchy.
  - Making a copy of an object can sometimes be complicated.
