@@ -6,7 +6,8 @@ The Prototype pattern is used when the type of object to
 create is determined by a prototypical instance, which is cloned to produce a new instance.
 Oftentimes, the prototype pattern is used to get a unique instance to get a unique instance of same object.
 In prototype pattern, we can do copy process in two different ways. First one is shallow copy which copy all the refenrece objects directly, second is deep copy which create new instances  of referenced object and then copy required parameters to instantiate that object. The shallow copy is a bit dangerous because reference object changes reflect in both original and clone objects.
-###Concepts
+
+### Concepts
 
 - Avoids costly creation
 - Avoids subclassing
